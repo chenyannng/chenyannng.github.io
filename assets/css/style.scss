@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+.container {
+    position: relative;
+    width: 70%;
+  }
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+  }
+  
